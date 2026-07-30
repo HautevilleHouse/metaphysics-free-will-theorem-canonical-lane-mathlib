@@ -1,0 +1,16 @@
+import MetaphysicsFreeWillTheoremCanonicalLaneLean.AdmissibleContext
+import MetaphysicsFreeWillTheoremCanonicalLaneLean.BridgeLemmas
+import MetaphysicsFreeWillTheoremCanonicalLaneLean.GateLemmas
+import MetaphysicsFreeWillTheoremCanonicalLaneLean.DeterminismConstraint
+import MetaphysicsFreeWillTheoremCanonicalLaneLean.FreeWillIndeterminismEvidence
+import MetaphysicsFreeWillTheoremCanonicalLaneLean.FinalTheorem
+
+/-! This is the root module for the Metaphysics Free Will Theorem package. -/
+
+namespace HautevilleHouse
+namespace MetaphysicsFreeWillTheoremCanonicalLaneLean
+
+theorem root_import_check : True := by trivial
+
+end MetaphysicsFreeWillTheoremCanonicalLaneLean
+end HautevilleHouse
